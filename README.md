@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ivan (or short iVO)
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Kotlin and all the basics of Android Development
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Javascript and basics of Front-end development.
 - 📫 How to reach me ==> email : 123matacin@gmail.com
