@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ivan (or short iVO)
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript and basics of Front-end development.
+- 👀 I’m interested in Back End Development
+- 🌱 I’m currently learning Golang
 - 📫 How to reach me ==> email : 123matacin@gmail.com
